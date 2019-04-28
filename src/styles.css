@@ -1,1 +1,25 @@
 /* You can add global styles to this file, and also import other style files */
+@font-face {
+    font-family: '方正超细黑';
+    src: url("assets/fonts/fzltcxh.TTF");
+}
+@font-face {
+    font-family: '方正细黑';
+    src: url("assets/fonts/fzltxh.TTF");
+}
+@font-face {
+    font-family: '方正细黑2';
+    src: url("assets/fonts/fzltxh2.TTF");
+}
+@font-face {
+    font-family: '方正兰亭细黑简体';
+    src: url("assets/fonts/fzltxhjt.TTF");
+}
+@font-face {
+    font-family: '简体';
+    src: url("assets/fonts/jt.TTF");
+}
+@font-face {
+    font-family: '方正兰亭黑';
+    src: url("assets/fonts/fzlth.TTF");
+}
